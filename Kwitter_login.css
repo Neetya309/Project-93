@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image: URL("https://media.istockphoto.com/photos/defocused-human-icons-on-black-background-picture-id843593806?b=1&k=20&m=843593806&s=170667a&w=0&h=Z6eN8tkEWD48mdy6CJujLeQ3orUsqbtmaycAQlnUBQQ=");
+    color: white;
+    font-size: 20px;
+}
+#k {
+    height: 50px;
+}
+input {
+    width: 1000px;
+}
+input:hover {
+    background-color: yellow;
+    border:5px solid red;
+
+}
+button:hover {
+   text-decoration: underline;
+}
